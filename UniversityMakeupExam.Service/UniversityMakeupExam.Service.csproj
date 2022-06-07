@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UniversityMakeupExam.Data\UniversityMakeupExam.Data.csproj" />
+    <ProjectReference Include="..\UniversityMakeupExam.Models\UniversityMakeupExam.Models.csproj" />
+  </ItemGroup>
+
+</Project>
